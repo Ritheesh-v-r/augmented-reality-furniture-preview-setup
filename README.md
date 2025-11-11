@@ -27,3 +27,7 @@ It helps customers preview how furniture will look and fit in their space before
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ritheesh-v-r/augmented-reality-furniture-preview-setup.git
+## Update
+Added this line from the feature-update branch.
+## Feature Update
+This line was added in the feature-update branch.
